@@ -1,0 +1,5 @@
+org\yan\Nick\NicknameCommand.class
+org\yan\Nick\Nick.class
+org\yan\Nick\NicknameListener.class
+org\yan\Nick\PlayerJoinListener.class
+org\yan\Nick\ReloadCommand.class

@@ -1,0 +1,11 @@
+name: Nick
+version: '${project.version}'
+main: org.yan.Nick.Nick
+api-version: '1.19'
+commands:
+  nick:
+    description: 設置自定義名稱
+    usage: /nick [自定義名稱]
+  nickreload:
+    description: 重載插件
+    usage: /nickreload
